@@ -19,7 +19,7 @@ if [ $# -eq 1 ]
                      -Latex : quand l'éditeurde textes utilisé est le #latex.
                      -GPL: quand la licence souhaité est #GPL
                      -MIT: quand la licence souhaité est #MIT
-            — author :Amine_HABET contact : mhabet@list.ru  "
+            — author :Tabet Aicha  "
     else
         mkdir -p $1/{bin,gitignores,sources,}
         touch $1/main
